@@ -36,4 +36,4 @@ $ node index
 
 # NOTE!
 
-This is the first file i am uploading. In the future i hope i can do better may bein brain.js or other popular libraries
+This is the first file i am uploading. In the future i hope i can do better maybe in brain.js or other popular libraries
