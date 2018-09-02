@@ -10,5 +10,5 @@ const training_data = data.map(item => ({
 
 network.train(training_data, { iterations: 1000, errorThresh: 0.005 });
 
-const output = network.run([7,6,6,5,9,8,1,6,10,8,10,6,4,2]); // expecting CB player
+const output = network.run([5,10,5,10,2,4,9,10,2,8,4,10,6,6]); // expecting W player
 console.log(`Position:${output}`);
